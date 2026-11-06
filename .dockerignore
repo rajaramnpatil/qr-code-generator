@@ -10,3 +10,4 @@ qr_codes/
 generated_qr_codes/
 .coverage
 htmlcov/
+ci_qr_codes/

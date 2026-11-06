@@ -20,3 +20,4 @@ htmlcov/
 dist/
 build/
 generated_qr_codes/
+ci_qr_codes/
