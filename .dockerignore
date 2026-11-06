@@ -1,0 +1,12 @@
+.git/
+.github/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+qr_codes/
+generated_qr_codes/
+.coverage
+htmlcov/
